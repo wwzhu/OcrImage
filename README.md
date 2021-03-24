@@ -4,3 +4,4 @@
 
 2.导入JavaCV所需jar包[下载地址](http://www.softpedia.com/get/Programming/Other-Programming-Files/JavaCV.shtml "JavaCV")   
 解压后将javacv-bin包引入项目即可
+https://blog.csdn.net/zhulier1124/article/details/80606647
